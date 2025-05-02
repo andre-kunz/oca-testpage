@@ -94,7 +94,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "buildTarget": "oca-playground:build:production"
+            "buildTarget": "oca-playground:build:development"
           }
         }
       }
